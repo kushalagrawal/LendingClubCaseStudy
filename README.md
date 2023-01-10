@@ -17,8 +17,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+- CA has the highest number of Loans
+- Bad loans varies across mulitiple sub_ratings.
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
